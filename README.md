@@ -7,3 +7,5 @@ The data we to be working with is not ideal, so the data had to be processed it 
 
 ## Results:
 
+![image](https://user-images.githubusercontent.com/108709071/198915733-ae2eb06f-4f9d-4689-b96d-7133348bdadd.png)
+
