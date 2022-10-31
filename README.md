@@ -9,3 +9,5 @@ The data we to be working with is not ideal, so the data had to be processed it 
 
 ![image](https://user-images.githubusercontent.com/108709071/198915733-ae2eb06f-4f9d-4689-b96d-7133348bdadd.png)
 
+![image](https://user-images.githubusercontent.com/108709071/198915900-68455aa1-f142-4d6b-813b-2f25a9ae9e68.png)
+
