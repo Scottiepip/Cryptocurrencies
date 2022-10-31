@@ -11,3 +11,4 @@ The data we to be working with is not ideal, so the data had to be processed it 
 
 ![image](https://user-images.githubusercontent.com/108709071/198915900-68455aa1-f142-4d6b-813b-2f25a9ae9e68.png)
 
+![image](https://user-images.githubusercontent.com/108709071/198915946-f519b29d-95fc-46be-9379-3e4ee03008b4.png)
